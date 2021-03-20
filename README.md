@@ -1,4 +1,4 @@
-# FinServer
+# FinNeoServer
 Builds a REST interface for data stored in a MongoDB collection.
 
 Uses environment variables in dev.env to learn where the database is.  Defaults to one on the cloud.
